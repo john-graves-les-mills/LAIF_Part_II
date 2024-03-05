@@ -3,11 +3,18 @@ Google Colab implementation of [LAIF Part II](https://github.com/biaslab/LAIF/bl
 
 ## Usage
 
-Open Colab to a new notebook
+Open Colab 
 
-Run `!git clone https://github.com/john-graves-les-mills/LAIF_Part_II.git`
+File > Open notebook > Github and paste Github URL `https://github.com/john-graves-les-mills/LAIF_Part_II/blob/a67658ab7769958c2ca64e8cbb5d5124441f4777/T_maze_Generalized_Colab.ipynb`
 
-Click Refresh in the file tab
+Run cell containing the line `!git clone https://github.com/john-graves-les-mills/LAIF_Part_II.git` to copy LAIF_Part_II Julia files to this Colab instance
 
-Open the LAIF_Part_II folder
+Run cell starting with `%%shell` to install Julia
+
+Reload the browser (press F5)
+
+Proceed to run remaining cells of the notebook
+
+Inspect the figures produced (in figures folder) with reference to the Screenshot of the T-Maze Layout showing locations of O, L, R, C cells
+
 
