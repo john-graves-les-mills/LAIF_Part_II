@@ -13,7 +13,7 @@ Run cell starting with `%%shell` to install Julia.
 
 Reload the browser (press F5).
 
-Proceed to run remaining cells of the notebook. Note the cell starting with `using Pkg` may take over 1 minute to complete as Julia packages are compiled.
+Proceed to run remaining cells of the notebook. Note the cell starting with `using Pkg` may take over 6 minutes to complete as Julia packages are precompiled.
 
 Inspect the figures produced (in figures folder) with reference to the Screenshot of the T-Maze Layout showing locations of O, L, R, C cells.
 
