@@ -17,4 +17,4 @@ Proceed to run remaining cells of the notebook. Note the cell starting with `usi
 
 Inspect the figures produced (in figures folder) with reference to the Screenshot of the T-Maze Layout showing locations of O, L, R, C cells.
 
-![Colab after git clone] (colab_after_git_clone.png "Colab after git clone")
+![Codelab after Git clone](https://github.com/john-graves-les-mills/LAIF_Part_II/blob/86ef5e8d36f6e019040b7f4261b4d85b99bd5f9c/colab_after_git_clone.png)
