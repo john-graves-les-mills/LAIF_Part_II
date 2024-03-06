@@ -3,7 +3,7 @@ Google Colab implementation of [LAIF Part II](https://github.com/biaslab/LAIF/bl
 
 ## Usage
 
-Open Colab 
+Open [Colab](https://colab.research.google.com/)
 
 File > Open notebook > Github and paste Github URL `https://github.com/john-graves-les-mills/LAIF_Part_II/blob/a67658ab7769958c2ca64e8cbb5d5124441f4777/T_maze_Generalized_Colab.ipynb`
 
